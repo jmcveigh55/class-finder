@@ -1,0 +1,8 @@
+# Dirs
+build/
+class_finder.egg-info
+dist/
+
+# Files
+.DS_Store
+.py[cod]
