@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='class-finder',
     version='0.1.0',
-    description='Simple CLI tool for finding classes in my archieve.',
+    description='Simple CLI tool for finding classes in my archive.',
     author='Jack McVeigh',
     author_email='jmcveigh55@gmail.com',
     packages=find_packages(),
